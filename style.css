@@ -41,11 +41,6 @@ ul a li {
     height: 50px !important;
     width: 50px !important;
 }
-.font{
-    color: white !important;
-    height: 30px !important;
-    width: 30px !important;
-}
 .single-gallery .overlay{
     z-index: 2  !important;
     transition: all 0.4s ease 0s  !important;
@@ -74,16 +69,6 @@ ul a li {
 .single-gallery figure{
     overflow: hidden !important;
 }
-/* .intro{
-    background: url('img/aboutus.jpg');
-    background-size: cover;
-    height:500px;
-    background-position:center center;
-    background-attachment: fixed;
-}
-.introduction{
-    padding: 150px !important;
-} */
 .card:hover{
    transition: 1.0s !important;
    transform: translateY(-50px) !important;
